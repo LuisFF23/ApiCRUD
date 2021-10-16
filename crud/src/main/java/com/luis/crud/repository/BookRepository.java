@@ -9,9 +9,9 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface BookRepository extends JpaRepository<BookEntity, Long> {
 	
-	@Modifying
+	/*@Modifying
 	@Query("delete from books where id = ?1")
-	void delete(Long entityId);
+	void delete(Long entityId);*/
     
 }
 
