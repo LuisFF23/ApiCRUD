@@ -1,3 +1,3 @@
 # ApiCRUD
 
-Just a demo CRUD API in JAVA11 using SpringBoot framework
+Demo CRUD API in JAVA11 using SpringBoot framework, MySQL Database and JPA
